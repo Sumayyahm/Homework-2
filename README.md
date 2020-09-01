@@ -1,6 +1,6 @@
-# Homework-2
+# Portfolio
 
-In this homework,
+
 1. I have created a Portfolio site that contains a Home/About page(index.html) with a Contact page(contact.html) and a Portfolio page(portfolio.html).
 2. Each page includes a navbar(from Bootstrap) that contains links to Home/About, Contact, and Portfolio pages and footer. 
 3. I have included my personal information (bio,name and image).
