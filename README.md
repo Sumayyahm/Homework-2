@@ -12,8 +12,5 @@ In this homework,
 
 URL of the deployed website: https://sumayyahm.github.io/Portfolio/
 
-Screen shot of the home page :
-[![screenshot.png](https://i.postimg.cc/nrnGkMVF/screenshot.png)](https://postimg.cc/2bXWjkBM)
 
-
-
+![image](https://user-images.githubusercontent.com/66535567/91906949-9a72e480-ec6e-11ea-9102-1bee1437dcfc.png)
