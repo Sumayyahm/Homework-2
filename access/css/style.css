@@ -1,0 +1,91 @@
+/*Styling for Contact Me Form*/
+.form-group {
+    margin-left: 20px;
+    width: 50%;
+}
+
+/*Styling the Navbar*/
+.navbar-dark .navbar-text {
+ font-size: x-large;
+ color: #f8f9fa;
+}
+
+/*Changing background color for navbar*/
+.bg-dark {
+    background-color: darkolivegreen !important;
+}
+
+/*Styling the Navbar*/
+.navbar-nav {
+    flex-direction: row;
+}
+
+/*Styling the Navbar*/
+.nav-link {
+    margin-right: 20px;
+}
+
+/* Styling the Button in the Contact Page */
+.btn-primary {
+    margin-left: 20px;
+    background-color: darkolivegreen;
+    border-color: darkolivegreen;
+}
+
+/* Styling the Main body- font color,family and background- all 3 pages */
+body {
+    color: darkolivegreen !important;
+    background-color: beige !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+/* Changing the font size for the body */
+section,
+form {
+    font-size: 20px !important;
+}
+
+/* Styling the Header 2 on all the 3 pages */
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 20px;
+    margin-top: 100px;
+    color: darkolivegreen;
+    font-weight: normal;
+}
+
+/* Color for the hr element on all 3 pages */
+.line {
+    color: gray;
+}
+
+/* Changing color of text on Contact Me form */
+.text-muted {
+    color: darkolivegreen !important;
+}
+
+.footer-copyright {
+    background-color: darkolivegreen;
+    color: floralwhite;
+}
+
+
+@media (max-width: 768px) {
+
+    .navbar-text.center {
+        text-align: center;
+    }
+    .navbar-nav.mr-auto {
+        text-align: center;
+        margin-left: 45px;
+    }
+
+}
+
+@media (min-width: 992px) {
+
+    .navbar-text.links {
+        float: right;
+    }
+
+}
